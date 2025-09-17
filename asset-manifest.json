@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/vventures/static/css/main.ca30726a.css",
+    "main.js": "/vventures/static/js/main.7ce22a20.js",
+    "static/js/453.0c2710db.chunk.js": "/vventures/static/js/453.0c2710db.chunk.js",
+    "static/media/Cheraaabout.jpg": "/vventures/static/media/Cheraaabout.02da6480722e545f6e96.jpg",
+    "static/media/Cheraa.jpg": "/vventures/static/media/Cheraa.1cfea7b5caccb7b430dc.jpg",
+    "static/media/Innerbanner.webp": "/vventures/static/media/Innerbanner.9e01f035d5e8bbd7e5f4.webp",
+    "static/media/Roboto-Regular.ttf": "/vventures/static/media/Roboto-Regular.03523cf578d69fa92322.ttf",
+    "static/media/Roboto-Light.ttf": "/vventures/static/media/Roboto-Light.0cea39826bd36bbfe330.ttf",
+    "static/media/Banner.webp": "/vventures/static/media/Banner.d0b5e3a98383af478c7a.webp",
+    "static/media/Essence.webp": "/vventures/static/media/Essence.6d00122757d5e2a60d1a.webp",
+    "static/media/About.webp": "/vventures/static/media/About.43c4c3415a8250d52fdc.webp",
+    "static/media/Udaan.webp": "/vventures/static/media/Udaan.1741c648f1dc3cc1e4e0.webp",
+    "static/media/Jamora.webp": "/vventures/static/media/Jamora.ab2c33b2c74e0ea3a9d4.webp",
+    "static/media/logo.webp": "/vventures/static/media/logo.187cad479145dc3db377.webp",
+    "static/media/Aromas.webp": "/vventures/static/media/Aromas.d39fa57a6147ad3ae592.webp",
+    "index.html": "/vventures/index.html",
+    "main.ca30726a.css.map": "/vventures/static/css/main.ca30726a.css.map",
+    "main.7ce22a20.js.map": "/vventures/static/js/main.7ce22a20.js.map",
+    "453.0c2710db.chunk.js.map": "/vventures/static/js/453.0c2710db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca30726a.css",
+    "static/js/main.7ce22a20.js"
+  ]
+}
