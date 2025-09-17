@@ -1,0 +1,140 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+@font-face {
+  font-family: "Roboto-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Roboto-Regular"), local("Roboto-Regular"),
+    url("./components/fonts/Roboto-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Roboto-Light";
+  font-style: normal;
+  font-weight: 100;
+  src: local("Roboto-Light"), local("Roboto-Light"),
+    url("./components/fonts/Roboto-Light.ttf") format("truetype");
+}
+.header {
+  display: flex;
+  width: 100%;
+  position: relative;
+  margin: 20px 0px;
+  justify-content: space-around;
+  align-items: center;
+}
+nav {
+  padding: 20px;
+}
+
+nav a {
+  color: rgb(27, 26, 26);
+  margin: 0 20px;
+  text-decoration: none;
+}
+nav a:hover {
+  color: #f8a01c;
+}
+.container-fluid {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+p {
+  font-family: Roboto-Regular;
+  font-size: 18px;
+}
+h1 {
+  font-family: Roboto-Light;
+  text-transform: capitalize;
+  font-size: 30px;
+  width: 500px;
+}
+h2 {
+  font-family: Roboto-Regular;
+  text-transform: capitalize;
+  color: #05558e;
+  font-size: 30px;
+  margin: 0 0 20px 0;
+}
+.banner-txt {
+  position: absolute;
+  bottom: 285px;
+  margin-left: 80px;
+}
+.about {
+  display: flex;
+  gap: 30px;
+  padding-top: 50px;
+}
+.about img {
+  width: 400px;
+}
+.products {
+  display: flex;
+  gap: 50px;
+}
+.products img {
+  width: 540px;
+  padding-top: 20px;
+}
+.inner-about,
+.impact {
+  display: flex;
+  gap: 30px;
+  padding-top: 50px;
+}
+.inner-about img,
+.impact img {
+  width: 550px;
+}
+.contact {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer {
+  background-color: #f8a01c;
+  padding: 20px 0;
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.footer p {
+  margin: 0;
+}
