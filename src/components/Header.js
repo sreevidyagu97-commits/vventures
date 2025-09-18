@@ -13,7 +13,7 @@ function Header() {
           <div className="col-lg-8 col-md-8 col-sm-8 col-xs-12">
             <nav className="navbar navbar-expand-lg" role="navigation">
               <input id="main-menu-state" type="checkbox" />
-              <label className="main-menu-btn" for="main-menu-state">
+              <label className="main-menu-btn" htmlFor="main-menu-state">
                 <span className="main-menu-btn-icon"></span> Toggle main menu
                 visibility
               </label>
