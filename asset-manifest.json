@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vventures/static/css/main.def5cac1.css",
-    "main.js": "/vventures/static/js/main.e7d3ef53.js",
+    "main.js": "/vventures/static/js/main.27beab62.js",
     "static/js/453.47186747.chunk.js": "/vventures/static/js/453.47186747.chunk.js",
     "static/media/Cheraaabout.jpg": "/vventures/static/media/Cheraaabout.02da6480722e545f6e96.jpg",
     "static/media/Cheraa.jpg": "/vventures/static/media/Cheraa.1cfea7b5caccb7b430dc.jpg",
@@ -24,11 +24,11 @@
     "static/media/Aromas.webp": "/vventures/static/media/Aromas.d39fa57a6147ad3ae592.webp",
     "index.html": "/vventures/index.html",
     "main.def5cac1.css.map": "/vventures/static/css/main.def5cac1.css.map",
-    "main.e7d3ef53.js.map": "/vventures/static/js/main.e7d3ef53.js.map",
+    "main.27beab62.js.map": "/vventures/static/js/main.27beab62.js.map",
     "453.47186747.chunk.js.map": "/vventures/static/js/453.47186747.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.def5cac1.css",
-    "static/js/main.e7d3ef53.js"
+    "static/js/main.27beab62.js"
   ]
 }
