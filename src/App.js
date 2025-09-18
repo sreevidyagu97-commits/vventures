@@ -19,7 +19,7 @@ function App() {
             </div>
           </div>
           <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-            <nav class="navbar navbar-expand-lg navbar-dark" role="navigation">
+            <nav class="navbar navbar-expand-lg" role="navigation">
               <input id="main-menu-state" type="checkbox" />
               <label class="main-menu-btn" for="main-menu-state">
                 <span class="main-menu-btn-icon"></span> Toggle main menu
