@@ -2,8 +2,8 @@ import { Routes, Route, Link } from "react-router-dom";
 import "./App.css";
 import Home from "./components/Home";
 import About from "./components/About";
-import Contact from "./components/Contact";
 import Socialimpact from "./components/Socialimpact";
+import Contact from "./components/contact";
 import Footer from "./components/Footer";
 import logo from "./components/images/logo.webp";
 

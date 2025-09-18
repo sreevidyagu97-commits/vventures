@@ -32,7 +32,7 @@ function Contact() {
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
               <div class="about-intro">
                 <h2 data-aos="fade-down" data-aos-duration="1000">
-                  Contact
+                  Contact Us
                 </h2>
               </div>
             </div>
