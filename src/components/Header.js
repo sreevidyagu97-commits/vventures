@@ -1,20 +1,20 @@
-import logo from "./components/images/logo.webp";
+import logo from "../components/images/logo.webp";
 
 function Header() {
   return (
     <div>
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-            <div class="logo">
+      <div className="container-fluid">
+        <div className="row">
+          <div className="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+            <div className="logo">
               <img src={logo} class="img-fluid" alt="logo" />
             </div>
           </div>
-          <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-            <nav class="navbar navbar-expand-lg" role="navigation">
+          <div className="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+            <nav className="navbar navbar-expand-lg" role="navigation">
               <input id="main-menu-state" type="checkbox" />
-              <label class="main-menu-btn" for="main-menu-state">
-                <span class="main-menu-btn-icon"></span> Toggle main menu
+              <label className="main-menu-btn" for="main-menu-state">
+                <span className="main-menu-btn-icon"></span> Toggle main menu
                 visibility
               </label>
               <ul id="main-menu" class="sm sm-blue">
