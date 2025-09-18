@@ -1,4 +1,4 @@
-import { Routes, Route, Link } from "react-router-dom";
+import { HashRouter, Routes, Route, Link } from "react-router-dom";
 import "./App.css";
 import Home from "./components/Home";
 import About from "./components/About";
@@ -9,7 +9,7 @@ import logo from "./components/images/logo.webp";
 
 function App() {
   return (
-    <>
+    <HashRouter>
       <div className="header">
         <img src={logo} alt="logo" />
         <nav>
@@ -29,7 +29,7 @@ function App() {
       </div>
 
       <Footer />
-    </>
+    </HashRouter>
   );
 }
 
