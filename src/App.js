@@ -1,3 +1,4 @@
+import React from "react";
 import { HashRouter, Routes, Route } from "react-router-dom";
 import "./App.css";
 import Home from "./components/Home";
@@ -30,11 +31,6 @@ function App() {
                     About
                   </a>
                 </li>
-                {/* <li><a href="products.html" class="basic-3">Products</a>
-						<ul>
-							<li><a class="dropdown-item" href="products.html">Incense Sticks</a></li>
-						</ul>
-					</li> */}
                 <li>
                   <a href="/socialimpact" class="basic-3">
                     Social Impact
