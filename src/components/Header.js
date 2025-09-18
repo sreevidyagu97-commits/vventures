@@ -19,17 +19,22 @@ function Header() {
               </label>
               <ul id="main-menu" class="sm sm-blue">
                 <li>
-                  <a href="/about" class="basic-3">
+                  <a href="#/" class="basic-3">
+                    Home
+                  </a>
+                </li>
+                <li>
+                  <a href="#/about" class="basic-3">
                     About
                   </a>
                 </li>
                 <li>
-                  <a href="/socialimpact" class="basic-3">
+                  <a href="#/socialimpact" class="basic-3">
                     Social Impact
                   </a>
                 </li>
                 <li>
-                  <a href="/contact" class="basic-3">
+                  <a href="#/contact" class="basic-3">
                     Contact
                   </a>
                 </li>
