@@ -24,7 +24,7 @@
 
 // export default App;
 
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 import "./App.css";
 import Home from "./components/Home";
 import About from "./components/About";
@@ -32,6 +32,12 @@ import Contact from "./components/Contact";
 import Socialimpact from "./components/Socialimpact";
 import Footer from "./components/Footer";
 import logo from "./components/images/logo.webp";
+
+root.render(
+  <HashRouter>
+    <App />
+  </HashRouter>
+);
 
 function App() {
   return (
@@ -45,7 +51,7 @@ function App() {
           <Link to="/contact">Contact</Link>
         </nav>
       </div>
-      <div className="container-fluid">
+      <div>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
